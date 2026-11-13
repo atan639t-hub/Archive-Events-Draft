@@ -52,8 +52,9 @@ Independent artists, government initiatives, and residents often operate separat
 ## Planned Features
 
 - **Artist portfolios and showcases:** a home for original, human-created work, with clear AI-content labelling.
-- **Centralised event discovery:** event listings from multiple organisations in one place, with searchable categories and interest-based filters.
-- **Artist-led events:** artists can organise and host their own events, open to beginners.
+- **Centralised events hub:** one dedicated place to discover, join, and take part in art-related and social events. Listings from multiple organisations (arts councils, schools, libraries, galleries, community groups, and independent artists) are brought together with searchable categories, interest-based filters, and personalised recommendations.
+- **Artist-led events:** artists can organise and host their own events, open to beginners, and list them in the events hub.
+- **Event chat:** every event gets its own chat space where attendees, hosts, and organisers can ask questions, share updates and reminders, coordinate meetups, and keep the conversation going after the event. Hosts can pin announcements, and chats are moderated with reporting tools.
 - **Opportunities board:** open calls, grants, commissions, and public programmes in one central listing.
 - **Artist collaboration:** a matching board and shared project tools so artists can co-create.
 - **Learning and skills:** workshops and mentorship, plus skills in cybersecurity, UI/UX, legal/audit, and finance/accounting.
@@ -111,7 +112,7 @@ artlink-sg/
 ## Roadmap
 
 - [ ] **Phase 1: Research and planning:** confirm the audience, partners, and scope; verify domain availability and hosting approval.
-- [ ] **Phase 2: Design and development:** build the core pages and features, followed by usability and beta testing.
+- [ ] **Phase 2: Design and development:** build the core pages and features, including the centralised events hub and event chat, followed by usability and beta testing.
 - [ ] **Phase 3: Launch and evaluation:** phased rollout starting with selected organisations, then measure engagement and feedback.
 
 Success will be tracked through community growth, partnerships, user engagement, usability and accessibility, security testing, and compliance.
@@ -124,6 +125,7 @@ ArtLink SG aims to protect artists and their work from the start:
 - **Security:** penetration testing, vulnerability assessments, and secure code reviews before launch.
 - **Intellectual property:** copyright policies, ownership guidelines, and reporting mechanisms to protect artists' original works.
 - **Content standards:** standardised event submission guidelines and content moderation and reporting procedures.
+- **Chat safety:** event chats include moderation tools, a way to report messages and users, and clear community guidelines. Chat data is covered by the same consent, access control, and retention rules as other personal data.
 
 ## Team
 
